@@ -21,9 +21,9 @@ I build enterprise-grade AI platforms — from GPU scheduling (K8s/Volcano) to L
 
 ### Current Focus Projects
 
-- 📄 **[pagepress](https://github.com/liustack/pagepress)** - HTML/Markdown to PNG/PDF rendering CLI
-- 🌐 **[webpress](https://github.com/liustack/webpress)** - Web publishing toolkit
+- 📄 **[pagepress](https://github.com/liustack/pagepress)** - Agent-friendly CLI: Markdown/HTML to PDF, built-in templates & Mermaid rendering
+- 🌐 **[webpress](https://github.com/liustack/webpress)** - Agent-friendly CLI: HTML to PNG, 8 social-media presets (OG, Twitter, YouTube, WeChat…)
 - 🤖 **[pi-mono](https://github.com/liustack/pi-mono)** - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI, Slack bot, vLLM pods
-- 🧩 **[vanilla](https://github.com/liustack/vanilla)** - Minimal project scaffold, zero bloat
+- 🧩 **[vanilla](https://github.com/liustack/vanilla)** - Go full-stack web framework: HTML components compile to Go, SSR/SSG, single-binary deploy — [vanilla.fan](https://vanilla.fan/)
 - 🐹 **[go](https://github.com/liustack/go)** - The Go programming language
-- 🔌 **[vanilla-idea](https://github.com/liustack/vanilla-idea)** - IntelliJ IDEA plugin development
+- 🔌 **[vanilla-idea](https://github.com/liustack/vanilla-idea)** - IntelliJ IDEA plugin for Vanilla framework
