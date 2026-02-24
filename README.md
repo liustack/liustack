@@ -23,6 +23,7 @@ I build enterprise-grade AI platforms — from GPU scheduling (K8s/Volcano) to L
 
 - 📄 **[pagepress](https://github.com/liustack/pagepress)** - Agent-friendly CLI: Markdown/HTML to PDF, built-in templates & Mermaid rendering
 - 🌐 **[webpress](https://github.com/liustack/webpress)** - Agent-friendly CLI: HTML to PNG, 8 social-media presets (OG, Twitter, YouTube, WeChat…)
+- ✍️ **[markpress](https://github.com/liustack/markpress)** - Agent CLI: Markdown to editor-ready HTML (WeChat MP inline styles + base64 images, X Articles semantic subset)
 - 👁️ **[modlens](https://github.com/liustack/modlens)** - Agent CLI: images to structured JSON evidence (OCR, layout, semantics), bridging the vision gap for text-only LLMs
 - 🔍 **[modsearch](https://github.com/liustack/modsearch)** - Agent CLI: search queries to structured web evidence (JSON), provider-extensible, designed for Agent Skills
 - 📡 **[modfetch](https://github.com/liustack/modfetch)** - Security-first Agent CLI: web pages to clean structured text for LLM workflows, with SSRF safeguards
