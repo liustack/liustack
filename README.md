@@ -11,7 +11,7 @@ Indie tools for the AI agent era. `liustack` is the maker's handle. The products
 
 - **[modlens](https://github.com/liustack/modlens)** — plug-in vision for text-only models. The first vision plugin for DeepSeek Harness.
 - **[modsearch](https://github.com/liustack/modsearch)** — plug-in web & X search for models without native web access.
-- **[vibemaster](https://github.com/liustack/vibemaster)** — four agent skills, one working loop: shape it, code it, dig it, snapshot it.
+- **[vibemaster](https://github.com/liustack/vibemaster)** — four agent skills, one working loop: shape it, code it, dig it, snapshot it. *(formerly hosted at `liustack/liustack`)*
 - **[pptfast](https://github.com/liustack/pptfast)** — stable, editable PPTX generation for AI agents. Semantic IR in, native DrawingML out.
 
 Writing: [liustack.dev](https://liustack.dev) · X: [@liustack](https://x.com/liustack)
